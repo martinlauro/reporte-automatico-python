@@ -18,5 +18,4 @@ un reporte Excel con análisis de ventas.
 - Ventas x Cliente — facturación total por cliente
 
 ## Autor
-Martin Lauro — 
-LinkedIn - https://www.linkedin.com/in/martin-lauro/
+Martin Lauro — [LinkedIn](https://www.linkedin.com/in/martin-lauro/)
